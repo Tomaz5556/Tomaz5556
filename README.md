@@ -29,8 +29,4 @@
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
-<div>
-<a href="https://github.com/Tomaz5556">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomaz5556&layout=compact&langs_count=7&theme=default"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomaz5556&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
