@@ -1,6 +1,6 @@
 # 👋 Olá, bem‑vindo ao meu perfil do GitHub!
 
-- Sou Tomaz, estudante do IFNMG - Campus Salinas, desenvolvedor que busca criar soluções úteis e funcionais. Aqui compartilho projetos acadêmicos, pessoais e experiências com diversas tecnologias.
+- Sou Tomaz, um desenvolvedor que busca criar soluções úteis e funcionais. Aqui compartilho projetos acadêmicos, pessoais e experiências com diversas tecnologias.
 
 ## 🧠 Sobre mim
 
